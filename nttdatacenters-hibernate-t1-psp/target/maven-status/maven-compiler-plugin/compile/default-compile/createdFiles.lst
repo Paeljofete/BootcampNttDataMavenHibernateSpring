@@ -1,0 +1,10 @@
+com\nttdata\hibernate\persistence\CommonDaoI.class
+com\nttdata\hibernate\persistence\AbstractEntity.class
+com\nttdata\hibernate\persistence\Cliente.class
+com\nttdata\hibernate\persistence\CommonDaoImpl.class
+com\nttdata\hibernate\persistence\ClienteDaoI.class
+com\nttdata\hibernate\persistence\ClienteDaoImpl.class
+com\nttdata\hibernate\NTTDataMain.class
+com\nttdata\hibernate\services\ClienteManagementServiceI.class
+com\nttdata\hibernate\services\ClienteManagementServiceImpl.class
+com\nttdata\hibernate\NTTDataHibernateUtil.class
